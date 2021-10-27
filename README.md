@@ -1,11 +1,10 @@
 # Python_web
 Python web server where you can successfully login and send token.
 ## Instalation
-Program uses flask, flask_sqlalchemy and pyjwt.
+Install dependencies:
 
 ```shell
 -pip install Flask
--pip install Flask-SQLAlchemy
 -pip install PyJWT
 OR
 pip install -r requirements.txt
